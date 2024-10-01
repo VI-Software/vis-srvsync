@@ -51,6 +51,15 @@ npm start
 npm run dev
 ```
 
+## Contribution Guidelines
+
+Please note that VI Software's contribution guidelines, code of conduct, Contributor License Agreement, and terms of service apply to this project. By contributing, you agree to abide by these terms.
+
+- [Contribution Guidelines](https://docs.visoftware.tech/vi-software/guidelines/contribution-guidelines)
+- [Code of Conduct](https://docs.visoftware.tech/vi-software/guidelines/code-of-conduct)
+- [Contributor License Agreement](https://docs.visoftware.tech/vi-software/guidelines/contributor-license-agreement)
+- [Terms of Service](https://docs.visoftware.tech/vi-software/guidelines/terms-of-service)
+
 ## License
 This project is licensed under the MIT  License.
 
