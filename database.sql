@@ -1,5 +1,0 @@
-CREATE TABLE serverConfigs (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    serverId VARCHAR(255) NOT NULL,
-    roleId VARCHAR(255) NOT NULL
-);
