@@ -19,7 +19,7 @@ A Discord bot that verifies users through the VI Software API and assigns roles 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/discord-verification-bot.git
+   git clone https://github.com/VI-Software/vis-srvsync.git
    cd discord-verification-bot
    ```
 
