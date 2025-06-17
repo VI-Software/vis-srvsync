@@ -1,6 +1,6 @@
 # VIS-SRCSYNC
 
-![Node.js](https://img.shields.io/badge/Node.js-v18.12.0-green.svg)
+![Node.js](https://img.shields.io/badge/Node.js-v22.10.0-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-red.svg)
 
 A Discord bot that verifies users through the VI Software API and assigns roles based on verification status. The bot uses a persistent queue system to handle rate limiting and retries verification with exponential backoff.
@@ -12,7 +12,7 @@ A Discord bot that verifies users through the VI Software API and assigns roles 
 - **Exponential Backoff:** Retries verification with increasing delays for unverified users.
 
 ## Prerequisites
-- Node.js v18.12.0 (LTS) or higher
+- Node.js v22.10.0 (LTS) or higher
 - MariaDB
 
 ## Installation
@@ -64,7 +64,7 @@ Please note that VI Software's contribution guidelines, code of conduct, Contrib
 This project is licensed under the MIT  License.
 
 ```
-Copyright (c) 2024 VI Software
+Copyright (c) 2025 VI Software
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
